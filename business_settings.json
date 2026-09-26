@@ -1,0 +1,145 @@
+{
+  "invoice_title": "TAX INVOICE",
+  "company_name": "EcoQuill",
+  "company_tagline": "Sustainability Starts With Every Bag",
+  "company_address": "660, 9th Cross, Weavers Colony, Gottigere Post, Bannerghatta Road, Bengaluru - 560083",
+  "company_phone": "+91 7899334559",
+  "company_email": "ecoquill.biobags@gmail.com",
+  "company_gstin": "AB290726105417Z",
+  "company_website": "",
+  "authorized_signatory": "Authorized Signatory",
+  "invoice_body": {
+    "dark": "#20242E",
+    "accent": "#A8C832",
+    "grid": "#E1E4E8",
+    "rows": 6,
+    "row_mm": 13.0,
+    "font": 7.2,
+    "notes": 7.0,
+    "show_hsn": true,
+    "show_gst": true,
+    "show_paid": true,
+    "sl": "SL#",
+    "description": "PRODUCT DESCRIPTION",
+    "unit": "UNIT PRICE",
+    "qty": "QTY.",
+    "total": "TOTAL",
+    "payment": "PAYMENT DETAILS:",
+    "terms": "TERMS AND CONDITIONS:",
+    "subtotal": "Subtotal:",
+    "tax": "Taxation:",
+    "grand": "G. Total",
+    "thanks": "Experience the best with EcoQuill",
+    "sign_w": 31.0,
+    "sign_h": 13.0
+  },
+  "invoice_prefix": "EQ/INV",
+  "default_place_of_supply": "Karnataka",
+  "bank_name": "Bank Name Placeholder",
+  "account_name": "EcoQuill",
+  "account_no": "Account Number Placeholder",
+  "ifsc_code": "IFSC Placeholder",
+  "upi_id": "UPI Placeholder",
+  "terms_conditions": "Goods once sold will not be taken back.\nPayment should be made as per agreed terms.\nAny dispute is subject to Bengaluru jurisdiction only.\nPlease verify quantity and product details at delivery.",
+  "font_styles": {
+    "invoice_title": {
+      "size": 32.0,
+      "color": "#FFFFFF",
+      "bold": true,
+      "italic": false,
+      "underline": false
+    },
+    "invoice_number": {
+      "size": 12.0,
+      "color": "#FFFFFF",
+      "bold": true,
+      "italic": false,
+      "underline": false
+    },
+    "bill_heading": {
+      "size": 13.0,
+      "color": "#0D3B2E",
+      "bold": true,
+      "italic": false,
+      "underline": false
+    },
+    "bill_body": {
+      "size": 9.0,
+      "color": "#27342F",
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "from_heading": {
+      "size": 13.0,
+      "color": "#0D3B2E",
+      "bold": true,
+      "italic": false,
+      "underline": false
+    },
+    "from_body": {
+      "size": 9.0,
+      "color": "#27342F",
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "date": {
+      "size": 10.0,
+      "color": "#65736D",
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "table_header": {
+      "size": 9.0,
+      "color": "#FFFFFF",
+      "bold": true,
+      "italic": false,
+      "underline": false
+    },
+    "table_body": {
+      "size": 8.0,
+      "color": "#27342F",
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "totals": {
+      "size": 10.0,
+      "color": "#27342F",
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "grand_total": {
+      "size": 11.0,
+      "color": "#FFFFFF",
+      "bold": true,
+      "italic": false,
+      "underline": false
+    },
+    "notes": {
+      "size": 8.0,
+      "color": "#65736D",
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "payment": {
+      "size": 8.0,
+      "color": "#27342F",
+      "bold": false,
+      "italic": false,
+      "underline": false
+    },
+    "thank_you": {
+      "size": 14.0,
+      "color": "#0D3B2E",
+      "bold": true,
+      "italic": false,
+      "underline": false
+    }
+  },
+  "invoice_footer_text": "Thank you for your purchase here!"
+}

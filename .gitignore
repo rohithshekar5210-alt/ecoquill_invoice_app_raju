@@ -1,0 +1,6 @@
+data/
+backups/
+invoices/
+__pycache__/
+*.pyc
+.venv/
